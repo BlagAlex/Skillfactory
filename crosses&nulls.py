@@ -1,6 +1,5 @@
 field = [['-'] * 3 for _ in range(3)]
 
-
 def show_field(f):
     num = '  0 1 2'
     print(num)
